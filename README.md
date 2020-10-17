@@ -9,9 +9,9 @@ Email:duttabhishek0@gmail.com
 
 # CodeChef  
  
-<p align="center">
-   <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="" height="130px" >
-</p>
+#<p align="center">
+  # <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="" height="130px" >
+#</p>
 <br><br><br>
  
  [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
