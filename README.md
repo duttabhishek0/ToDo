@@ -7,13 +7,8 @@ Email:duttabhishek0@gmail.com
 
 [![HitCount](http://hits.dwyl.com/duttabhishek32/duttabhishek32/.svg)](http://hits.dwyl.com/duttabhishek32/duttabhishek32/)
 
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
- 
- [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
- [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
- [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
- [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
- [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
 
 
  
